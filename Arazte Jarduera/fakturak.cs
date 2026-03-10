@@ -22,7 +22,7 @@ class Program
 
     static int AplikatuDeskontua(int zenbatekoa, int deskontua)
     {
-        if (zenbatekoa > 100)
+        if (zenbatekoa > 200)
         {
             return zenbatekoa - deskontua;
         }
